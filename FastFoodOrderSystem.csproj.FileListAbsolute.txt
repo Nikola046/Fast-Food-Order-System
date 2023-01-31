@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\bin\Debug\FastFoodOrderSystem.exe.config
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\bin\Debug\FastFoodOrderSystem.exe
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\bin\Debug\FastFoodOrderSystem.pdb
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.Form1.resources
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.exe
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.pdb
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.Menu.resources
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\FastFoodOrderSystem\FastFoodOrderSystem\obj\Debug\FastFoodOrderSystem.ChangePrice.resources
